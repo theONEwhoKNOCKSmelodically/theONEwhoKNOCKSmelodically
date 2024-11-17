@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theONEwhoKNOCKSmelodically
 - 👀 I’m interested in web development, data analysis and quantitative trading
 - 🌱 I’m currently learning to live according to dharma
-- 📫 How to reach me ... thatonewhoknocksmelodically@gmail.com
+- 📫 How to reach me thatonewhoknocksmelodically@gmail.com
 - 😄 Pronouns: bruh
 
 <!---
